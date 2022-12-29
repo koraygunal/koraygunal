@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koray Günal</h1>
-<h3 align="center">🔭 I’m currently open to work 👯 I’m looking to collaborate on software company 🌱 I’m currently learning Data Science,Machine Learning 💬 Ask me about via Linkedin</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koraygunal&label=Profile%20views&color=0e75b6&style=flat" alt="koraygunal" /> </p>
 
