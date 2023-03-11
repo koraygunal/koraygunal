@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **open to work**
 
-- 🌱 I’m currently learning **Data Science,Machine Learning**
+- 🌱 I’m currently learning **Data Science,Machine Learning,Backend Development**
 
 - 📫 How to reach me **koraygnal@gmail.com**
 
