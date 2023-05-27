@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koraygunal" alt="koraygunal" /></a> </p>
 
-- 🔭 I’m currently **open to work**
 
-- 🌱 I’m currently learning **Data Science,Machine Learning,Backend Development**
+- 🌱 I’m currently learning **Frontend,Backend Development**
 
 - 📫 How to reach me **koraygnal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1r9RdZac6PW8OGR-MCGdBSmimTUmBpwx3?usp=sharing](https://drive.google.com/drive/folders/1r9RdZac6PW8OGR-MCGdBSmimTUmBpwx3?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
